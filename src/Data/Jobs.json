@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "company": "Google",
+    "location": "Hyderabad",
+    "type": "Full-Time",
+    "salary": "₹12–18 LPA",
+    "description": "Work with React, UI frameworks, and JavaScript to build responsive interfaces."
+  },
+  {
+    "id": 2,
+    "title": "Backend Developer",
+    "company": "Amazon",
+    "location": "Bangalore",
+    "type": "Part-Time",
+    "salary": "₹6–10 LPA",
+    "description": "Develop backend APIs using Node.js and AWS services."
+  },
+  {
+    "id": 3,
+    "title": "Software Engineer Intern",
+    "company": "Microsoft",
+    "location": "Hyderabad",
+    "type": "Internship",
+    "salary": "₹25,000/month",
+    "description": "Assist in building cloud services as part of the Azure engineering team."
+  },
+  {
+    "id": 4,
+    "title": "Full Stack Developer",
+    "company": "Infosys",
+    "location": "Chennai",
+    "type": "Full-Time",
+    "salary": "₹8–12 LPA",
+    "description": "Work across frontend and backend using MERN stack."
+  },
+  {
+    "id": 5,
+    "title": "Data Analyst",
+    "company": "TCS",
+    "location": "Pune",
+    "type": "Full-Time",
+    "salary": "₹6–9 LPA",
+    "description": "Analyze datasets, build dashboards, generate insights."
+  },
+  {
+    "id": 6,
+    "title": "UI/UX Designer",
+    "company": "Adobe",
+    "location": "Remote",
+    "type": "Full-Time",
+    "salary": "₹10–15 LPA",
+    "description": "Design wireframes, mockups, and user experiences for products."
+  },
+  {
+    "id": 7,
+    "title": "Cloud Support Engineer",
+    "company": "AWS",
+    "location": "Bangalore",
+    "type": "Full-Time",
+    "salary": "₹9–14 LPA",
+    "description": "Support AWS customers with EC2, Lambda, S3, RDS."
+  },
+  {
+    "id": 8,
+    "title": "Machine Learning Intern",
+    "company": "NVIDIA",
+    "location": "Hyderabad",
+    "type": "Internship",
+    "salary": "₹30,000/month",
+    "description": "Assist in deep learning model training and GPU optimization."
+  },
+  {
+    "id": 9,
+    "title": "Technical Support Associate",
+    "company": "HCL",
+    "location": "Noida",
+    "type": "Part-Time",
+    "salary": "₹3–5 LPA",
+    "description": "Troubleshoot issues, handle tickets, support customers."
+  },
+  {
+    "id": 10,
+    "title": "DevOps Engineer",
+    "company": "Cisco",
+    "location": "Bangalore",
+    "type": "Full-Time",
+    "salary": "₹12–18 LPA",
+    "description": "Build CI/CD pipelines and manage cloud infrastructure."
+  },
+  {
+    "id": 11,
+    "title": "Mobile App Developer",
+    "company": "Byju's",
+    "location": "Bangalore",
+    "type": "Full-Time",
+    "salary": "₹8–14 LPA",
+    "description": "Build high-performance mobile apps using React Native."
+  },
+  {
+    "id": 12,
+    "title": "QA Tester",
+    "company": "Tech Mahindra",
+    "location": "Hyderabad",
+    "type": "Part-Time",
+    "salary": "₹3–6 LPA",
+    "description": "Test applications, write bug reports, perform automation testing."
+  }
+]
